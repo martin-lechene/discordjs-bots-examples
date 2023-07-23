@@ -1,0 +1,5 @@
+{
+    "token": "VOTRE_TOKEN_BOT",
+    "channelId": "ID_DU_SALON",
+    "intervalInMinutes": 60
+}
