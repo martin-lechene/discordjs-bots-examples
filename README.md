@@ -1,2 +1,1 @@
-# bot_discords
- 
+# DiscordJS example of bot
